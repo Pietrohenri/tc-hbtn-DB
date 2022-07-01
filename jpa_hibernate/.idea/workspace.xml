@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d0ee8670-feb9-4717-b438-525c0f68923e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/META-INF/persistence.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/demo/AdministrativoApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/demo/AdministrativoApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/entities/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/entities/Pessoa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/entities/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/entities/Produto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/models/PessoaModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/models/PessoaModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/models/ProdutoModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/models/ProdutoModel.java" afterDir="false" />
-    </list>
+    <list default="true" id="d0ee8670-feb9-4717-b438-525c0f68923e" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,7 +18,32 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1656704102" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1656704101" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$/.." />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
   </component>
   <component name="JpbToolWindowState">
     <option name="myId2FirstActivated">
