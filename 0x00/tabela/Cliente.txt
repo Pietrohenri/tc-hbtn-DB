@@ -1,0 +1,6 @@
+id          nome        email                telefone
+1           Betty       betty@techcamps.com  12345678
+2           Fernando    fer@gmail.com        21346534
+3           Leticia     leh@gmail.com        34261899
+4           Fabio       fabio@gmail.com      43261790
+5           Melissa     mel@gmail.com        98665341
