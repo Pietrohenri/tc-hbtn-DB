@@ -7,6 +7,7 @@
       <sourceFolder url="file://$MODULE_DIR$/0x01" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/0x02" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/jpa_hibernate" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java_jpa_hibernate_mapeamento/gestao-cursos-api/src/main/resources" type="java-resource" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

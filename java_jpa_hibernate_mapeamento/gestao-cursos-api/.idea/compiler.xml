@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="java_jpa_hibernate_mapeamento" />
+        <module name="gestao-cursos-api" />
       </profile>
     </annotationProcessing>
   </component>
