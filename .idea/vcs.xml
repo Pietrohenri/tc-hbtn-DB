@@ -4,6 +4,7 @@
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Projeto de Gestao de Cursos" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/java_jpa_hibernate_mapeamento" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/java_jpa_hibernate_mapeamento/gestao-cursos-api" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/jpa_hibernate" vcs="Git" />
   </component>
 </project>

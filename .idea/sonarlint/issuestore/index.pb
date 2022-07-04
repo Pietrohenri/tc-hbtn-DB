@@ -1,0 +1,3 @@
+
+Å
+Qjava_jpa_hibernate_mapeamento/gestao-cursos-api/sql_schema_database_admin_jpa.sql,a/e/ae2ea1c280570369805af8fb2093151b6bc66404
